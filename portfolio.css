@@ -90,7 +90,7 @@ header {
             rgba(0, 0, 0, 0.78),
             rgba(0, 0, 0, 0.90)
         ),
-        url("https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1800&q=80");
+        url("hero.jpg");
 
     background-size: cover;
     background-position: center;
